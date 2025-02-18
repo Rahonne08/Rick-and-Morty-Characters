@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto traz várias informações sobre os personagens da franquia Star Wars. Essa aplicação possui uma paginação onde é possível navegar em meio a mais de 80 personagens. Ao clicar em um personagem, é aberto um modal com maiores informações sobre ele. Todas essas informações estão sendo obtidas através da API [Swapi](https://swapi.dev/). Foram colocados em prática consumo de API e manipulação de elementos através de Javascript.
 
-- [Acesse o projeto finalizado, online](https://rodrigoserrasqueiro.github.io/Star-Wars-Characters)
+- [Acesse o projeto finalizado, online](https://rahonne08.github.io/Rick-and-Morty-Characters/)
 
 ## 📝 Instruções
 
